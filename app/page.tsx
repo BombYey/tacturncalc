@@ -246,7 +246,7 @@ export default function PilotTrainer() {
       <div className="max-w-md mx-auto space-y-6">
         {/* Header */}
         <div className="flex items-center justify-between">
-          <h1 className="text-2xl font-bold text-foreground">Dragons Heading Generator</h1>
+          <h1 className="text-2xl font-bold text-foreground">Lizards Heading Generator</h1>
           <Button variant="outline" size="icon" onClick={() => setShowSettings(!showSettings)}>
             <LucideSettings className="h-4 w-4" />
           </Button>
